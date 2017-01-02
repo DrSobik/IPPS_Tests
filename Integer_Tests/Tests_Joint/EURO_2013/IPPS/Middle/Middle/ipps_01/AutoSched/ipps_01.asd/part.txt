@@ -1,0 +1,21 @@
+PARTFAM	PART	ROUTE	DEST	
+part_fam	part_3	route_196609	retain	
+part_fam	part_4	route_262145	retain	
+part_fam	part_5	route_327681	retain	
+part_fam	part_6	route_393217	retain	
+part_fam	part_7	route_458753	retain	
+part_fam	part_8	route_524289	retain	
+part_fam	part_9	route_589825	retain	
+part_fam	part_10	route_655361	retain	
+part_fam	part_11	route_720897	retain	
+part_fam	part_12	route_786433	retain	
+part_fam	part_13	route_851969	retain	
+part_fam	part_14	route_917505	retain	
+part_fam	part_15	route_983041	retain	
+part_fam	part_1	route_65537	retain	
+part_fam	part_2	route_131073	retain	
+prod_fam	product_3			
+prod_fam	product_4			
+prod_fam	product_5			
+prod_fam	product_1			
+prod_fam	product_2			

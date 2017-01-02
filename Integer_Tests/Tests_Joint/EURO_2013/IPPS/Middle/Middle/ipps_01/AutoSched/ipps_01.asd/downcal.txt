@@ -1,0 +1,6 @@
+DOWNCALNAME	DOWNCALTYPE	MTTF	MTTF2	MTTF3	MTTFUNITS	MTTFDIST	MTTR	MTTR2	MTTR3	MTTRUNITS	MTTRDIST	
+DOWN_AFTER_LOTS_MG_1	mttf_by_lots	0	0	0	lots		0	0	0	min		
+DOWN_AFTER_LOTS_MG_2	mttf_by_lots	0	0	0	lots		0	0	0	min		
+DOWN_AFTER_LOTS_MG_3	mttf_by_lots	0	0	0	lots		0	0	0	min		
+DOWN_AFTER_LOTS_MG_4	mttf_by_lots	0	0	0	lots		0	0	0	min		
+DOWN_AFTER_LOTS_MG_5	mttf_by_lots	0	0	0	lots		0	0	0	min		

@@ -1,0 +1,5 @@
+FUNCTYPE	FUNCNAME	LIB	
+init	init_CustomSched	c:\users\sobeyko\Projects\AutoSched\CustomSched\CustomSched.dll	
+rule	rule_PrevLotsFinished	c:\users\sobeyko\Projects\AutoSched\CustomSched\CustomSched.dll	
+crit	crit_SameUnit	c:\users\sobeyko\Projects\AutoSched\CustomSched\CustomSched.dll	
+rule	rule_CustomRule	c:\users\sobeyko\Projects\AutoSched\CustomSched\CustomSched.dll	

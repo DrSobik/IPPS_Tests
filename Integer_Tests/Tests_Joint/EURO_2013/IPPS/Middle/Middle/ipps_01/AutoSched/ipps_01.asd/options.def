@@ -1,0 +1,43 @@
+SIM_START	1:1:2016:0:0:0				
+EVENT_TRACE_ON(Y/N)	N				
+EVENT_TRACE_ALL(Y/N)	N				
+GANTT_TRACE_ON(Y/N)	Y				
+GANTT_TRACE_ALL(Y/N)	N				
+USE_CALENDARS(Y/N)	N				
+USE_PREV_MAIN_FILE(Y/N)	Y				
+USE_CMRG_RANDOM_NUMBERS(Y/N)	Y				
+COMMENT_CHARACTER	~				
+PRODUCT_FILES	file	part.txt			
+STATION_FILES	file	rc.txt			
+ORDER_FILES	file	orders.txt			
+GENRES_FILES	none				
+PMORDER_FILES	none				
+OPERATOR_FILES	none				
+SETUP_FILES	none				
+PROCESS_FILES	file	proc_matrix.txt			
+ATTACH_FILES	file	attach.txt			
+ACTIONLIST_FILES	file	$ASI/lib/stdactl.txt			
+CLASSDEF_FILES	file	$ASI/lib/stdclass.txt			
+PREEMPTACTIONLIST_FILES	file	$ASI/lib/stdpactl.txt			
+EXTERNALDEF_FILES	file	$ASI/lib/stdfunc.txt			
+	file	extdef.txt			
+STNREP_FILES	file	stn.rdf	outfile	stn.rep	
+OPERREP_FILES	none				
+GENRESREP_FILES	none				
+PARTREP_FILES	none				
+LOTREP_FILES	file	lot.rdf	outfile	lot.rep	
+SETREP_FILES	none				
+PERFREP_FILES	file	perf.rdf	outfile	perf.rep	
+FAMREP_FILES	none				
+STNGRPREP_FILES	none				
+SUPERSETREP_FILES	none				
+SUBSETREP_FILES	none				
+PARTFAMREP_FILES	none				
+PARTGRPREP_FILES	none				
+OPERCLASSREP_FILES	none				
+ORDERREP_FILES	none				
+GENRESFAMREP_FILES	none				
+USERFIELDDEF_FILES	file	userdef.txt			
+TIME_PHASED_STN_PARAMETER_FILES	file	TimePhaseStn.txt			
+ROUTE_FILES	file	routes.txt			
+DOWNCAL_FILES	file	downcal.txt			

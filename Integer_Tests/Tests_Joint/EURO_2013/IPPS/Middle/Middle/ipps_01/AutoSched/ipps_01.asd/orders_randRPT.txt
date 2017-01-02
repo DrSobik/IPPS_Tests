@@ -1,0 +1,16 @@
+ORDER	LOT	PART	PIECES	TRACE	RDIST	REPEAT	REPEAT2	REPEAT3	RUNITS	RPT#	LOTSPERRPT	START	DUE	PRIOR	
+order_1	unit_1	product_1	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:46:0	2	
+order_2	unit_2	product_1	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:46:0	2	
+order_3	unit_3	product_1	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:46:0	2	
+order_4	unit_4	product_2	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:36:0	2	
+order_5	unit_5	product_2	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:36:0	1	
+order_6	unit_6	product_2	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:36:0	2	
+order_7	unit_7	product_3	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:41:0	2	
+order_8	unit_8	product_3	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:41:0	2	
+order_9	unit_9	product_3	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:41:0	2	
+order_10	unit_10	product_4	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:4:24:0	2	
+order_11	unit_11	product_4	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:4:24:0	2	
+order_12	unit_12	product_4	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:4:24:0	1	
+order_13	unit_13	product_5	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:58:0	2	
+order_14	unit_14	product_5	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:58:0	2	
+order_15	unit_15	product_5	1	both	constant	?	?	?	min	1	1	1:1:2016:0:0:0	1:1:2016:3:58:0	4	

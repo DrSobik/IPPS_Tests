@@ -1,0 +1,12 @@
+STNFAM	STN	RULE	TRACE	FWLRANK	RWLRANK	WAKERESRANK	STNCAP	STNCAPTYPE	AVAILAT	stnWAKER	
+MG_0	M_0	rule_CustomRule	gantt		rank_FIFO		1000000	lot	1:1:2016:0:0:0		
+MG_1	M_65537	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_1	M_65538	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_2	M_131073	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_2	M_131074	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_3	M_196609	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_3	M_196610	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_4	M_262145	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_4	M_262146	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_5	M_327681	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		
+MG_5	M_327682	rule_CustomRule	gantt		rank_FIFO		1	lot	1:1:2016:0:0:0		

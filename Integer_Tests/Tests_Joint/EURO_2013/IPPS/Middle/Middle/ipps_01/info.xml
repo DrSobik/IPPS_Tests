@@ -1,0 +1,20 @@
+<parameters>
+ <n_tools>5</n_tools>
+ <n_operation_types>50</n_operation_types>
+ <n_prod_types>5</n_prod_types>
+ <n_item_types>15</n_item_types>
+ <min_mach_per_tool>1</min_mach_per_tool>
+ <max_mach_per_tool>5</max_mach_per_tool>
+ <max_oper_per_item>8</max_oper_per_item>
+ <max_routes_per_item>3</max_routes_per_item>
+ <min_item_types_per_prod>5</min_item_types_per_prod>
+ <max_item_types_per_prod>7</max_item_types_per_prod>
+ <min_boms_per_prod>2</min_boms_per_prod>
+ <max_boms_per_prod>6</max_boms_per_prod>
+ <min_items_per_bom>4</min_items_per_bom>
+ <max_items_per_bom>6</max_items_per_bom>
+ <n_orders>15</n_orders>
+ <ready_scaling_coef>0</ready_scaling_coef>
+ <due_scaling_coef>0.5</due_scaling_coef>
+ <integer_test>1</integer_test>
+</parameters>

@@ -1,0 +1,266 @@
+PART	ROUTE	STEP	OPERATIONTYPE	SUBPART	SUBPARTIDX	SUBQTY	SUBPER	CONSUMINGPARTIDX	SUBCRITF	STNFAM	PTIME	PTUNITS	PTPER	SETUP	STIME	STUNITS	
+part_3	route_196609	route_196609_step_1	23							MG_1	0	min	per_lot				
+part_3	route_196609	route_196609_step_2	16							MG_3	0	min	per_lot				
+part_3	route_196609	route_196609_step_3	3							MG_2	0	min	per_lot				
+part_3	route_196609	route_196609_step_4	38							MG_5	0	min	per_lot				
+part_3	route_196609	route_196609_step_5	8							MG_2	0	min	per_lot				
+part_3	route_196609	route_196609_step_6	5							MG_3	0	min	per_lot				
+part_3	route_196610	route_196610_step_1	5							MG_3	0	min	per_lot				
+part_3	route_196610	route_196610_step_2	38							MG_5	0	min	per_lot				
+part_3	route_196610	route_196610_step_3	16							MG_3	0	min	per_lot				
+part_3	route_196610	route_196610_step_4	23							MG_1	0	min	per_lot				
+part_3	route_196610	route_196610_step_5	3							MG_2	0	min	per_lot				
+part_3	route_196610	route_196610_step_6	8							MG_2	0	min	per_lot				
+part_4	route_262145	route_262145_step_1	8							MG_2	0	min	per_lot				
+part_4	route_262145	route_262145_step_2	44							MG_4	0	min	per_lot				
+part_4	route_262145	route_262145_step_3	48							MG_5	0	min	per_lot				
+part_4	route_262145	route_262145_step_4	21							MG_4	0	min	per_lot				
+part_4	route_262145	route_262145_step_5	9							MG_1	0	min	per_lot				
+part_4	route_262145	route_262145_step_6	28							MG_3	0	min	per_lot				
+part_4	route_262146	route_262146_step_1	48							MG_5	0	min	per_lot				
+part_4	route_262146	route_262146_step_2	8							MG_2	0	min	per_lot				
+part_4	route_262146	route_262146_step_3	44							MG_4	0	min	per_lot				
+part_4	route_262146	route_262146_step_4	28							MG_3	0	min	per_lot				
+part_4	route_262146	route_262146_step_5	21							MG_4	0	min	per_lot				
+part_4	route_262146	route_262146_step_6	9							MG_1	0	min	per_lot				
+part_5	route_327681	route_327681_step_1	32							MG_4	0	min	per_lot				
+part_5	route_327681	route_327681_step_2	41							MG_3	0	min	per_lot				
+part_5	route_327681	route_327681_step_3	10							MG_2	0	min	per_lot				
+part_5	route_327681	route_327681_step_4	12							MG_4	0	min	per_lot				
+part_5	route_327681	route_327681_step_5	9							MG_1	0	min	per_lot				
+part_5	route_327681	route_327681_step_6	24							MG_1	0	min	per_lot				
+part_5	route_327681	route_327681_step_7	20							MG_4	0	min	per_lot				
+part_5	route_327682	route_327682_step_1	32							MG_4	0	min	per_lot				
+part_5	route_327682	route_327682_step_2	9							MG_1	0	min	per_lot				
+part_5	route_327682	route_327682_step_3	10							MG_2	0	min	per_lot				
+part_5	route_327682	route_327682_step_4	12							MG_4	0	min	per_lot				
+part_5	route_327682	route_327682_step_5	24							MG_1	0	min	per_lot				
+part_5	route_327682	route_327682_step_6	20							MG_4	0	min	per_lot				
+part_5	route_327682	route_327682_step_7	41							MG_3	0	min	per_lot				
+part_6	route_393217	route_393217_step_1	20							MG_4	0	min	per_lot				
+part_6	route_393217	route_393217_step_2	50							MG_3	0	min	per_lot				
+part_6	route_393217	route_393217_step_3	25							MG_4	0	min	per_lot				
+part_6	route_393217	route_393217_step_4	1							MG_3	0	min	per_lot				
+part_6	route_393217	route_393217_step_5	43							MG_4	0	min	per_lot				
+part_6	route_393217	route_393217_step_6	43							MG_4	0	min	per_lot				
+part_6	route_393217	route_393217_step_7	7							MG_5	0	min	per_lot				
+part_6	route_393218	route_393218_step_1	43							MG_4	0	min	per_lot				
+part_6	route_393218	route_393218_step_2	20							MG_4	0	min	per_lot				
+part_6	route_393218	route_393218_step_3	50							MG_3	0	min	per_lot				
+part_6	route_393218	route_393218_step_4	43							MG_4	0	min	per_lot				
+part_6	route_393218	route_393218_step_5	25							MG_4	0	min	per_lot				
+part_6	route_393218	route_393218_step_6	1							MG_3	0	min	per_lot				
+part_6	route_393218	route_393218_step_7	7							MG_5	0	min	per_lot				
+part_7	route_458753	route_458753_step_1	16							MG_3	0	min	per_lot				
+part_7	route_458753	route_458753_step_2	39							MG_4	0	min	per_lot				
+part_7	route_458753	route_458753_step_3	15							MG_1	0	min	per_lot				
+part_7	route_458753	route_458753_step_4	4							MG_1	0	min	per_lot				
+part_7	route_458753	route_458753_step_5	36							MG_2	0	min	per_lot				
+part_7	route_458753	route_458753_step_6	11							MG_5	0	min	per_lot				
+part_7	route_458753	route_458753_step_7	3							MG_2	0	min	per_lot				
+part_7	route_458754	route_458754_step_1	4							MG_1	0	min	per_lot				
+part_7	route_458754	route_458754_step_2	3							MG_2	0	min	per_lot				
+part_7	route_458754	route_458754_step_3	39							MG_4	0	min	per_lot				
+part_7	route_458754	route_458754_step_4	15							MG_1	0	min	per_lot				
+part_7	route_458754	route_458754_step_5	11							MG_5	0	min	per_lot				
+part_7	route_458754	route_458754_step_6	16							MG_3	0	min	per_lot				
+part_7	route_458754	route_458754_step_7	36							MG_2	0	min	per_lot				
+part_8	route_524289	route_524289_step_1	20							MG_4	0	min	per_lot				
+part_8	route_524289	route_524289_step_2	16							MG_3	0	min	per_lot				
+part_8	route_524289	route_524289_step_3	41							MG_3	0	min	per_lot				
+part_8	route_524289	route_524289_step_4	39							MG_4	0	min	per_lot				
+part_8	route_524289	route_524289_step_5	31							MG_3	0	min	per_lot				
+part_8	route_524289	route_524289_step_6	47							MG_4	0	min	per_lot				
+part_8	route_524289	route_524289_step_7	8							MG_2	0	min	per_lot				
+part_9	route_589825	route_589825_step_1	41							MG_3	0	min	per_lot				
+part_9	route_589825	route_589825_step_2	28							MG_3	0	min	per_lot				
+part_9	route_589825	route_589825_step_3	15							MG_1	0	min	per_lot				
+part_9	route_589825	route_589825_step_4	33							MG_4	0	min	per_lot				
+part_9	route_589825	route_589825_step_5	25							MG_4	0	min	per_lot				
+part_9	route_589825	route_589825_step_6	26							MG_3	0	min	per_lot				
+part_9	route_589825	route_589825_step_7	45							MG_4	0	min	per_lot				
+part_9	route_589825	route_589825_step_8	11							MG_5	0	min	per_lot				
+part_10	route_655361	route_655361_step_1	31							MG_3	0	min	per_lot				
+part_10	route_655361	route_655361_step_2	31							MG_3	0	min	per_lot				
+part_10	route_655361	route_655361_step_3	19							MG_5	0	min	per_lot				
+part_10	route_655361	route_655361_step_4	47							MG_4	0	min	per_lot				
+part_10	route_655361	route_655361_step_5	50							MG_3	0	min	per_lot				
+part_10	route_655361	route_655361_step_6	42							MG_4	0	min	per_lot				
+part_10	route_655361	route_655361_step_7	3							MG_2	0	min	per_lot				
+part_10	route_655362	route_655362_step_1	47							MG_4	0	min	per_lot				
+part_10	route_655362	route_655362_step_2	19							MG_5	0	min	per_lot				
+part_10	route_655362	route_655362_step_3	31							MG_3	0	min	per_lot				
+part_10	route_655362	route_655362_step_4	3							MG_2	0	min	per_lot				
+part_10	route_655362	route_655362_step_5	50							MG_3	0	min	per_lot				
+part_10	route_655362	route_655362_step_6	31							MG_3	0	min	per_lot				
+part_10	route_655362	route_655362_step_7	42							MG_4	0	min	per_lot				
+part_11	route_720897	route_720897_step_1	21							MG_4	0	min	per_lot				
+part_11	route_720897	route_720897_step_2	19							MG_5	0	min	per_lot				
+part_11	route_720897	route_720897_step_3	20							MG_4	0	min	per_lot				
+part_11	route_720897	route_720897_step_4	32							MG_4	0	min	per_lot				
+part_11	route_720897	route_720897_step_5	44							MG_4	0	min	per_lot				
+part_11	route_720897	route_720897_step_6	10							MG_2	0	min	per_lot				
+part_11	route_720897	route_720897_step_7	15							MG_1	0	min	per_lot				
+part_11	route_720898	route_720898_step_1	32							MG_4	0	min	per_lot				
+part_11	route_720898	route_720898_step_2	21							MG_4	0	min	per_lot				
+part_11	route_720898	route_720898_step_3	19							MG_5	0	min	per_lot				
+part_11	route_720898	route_720898_step_4	10							MG_2	0	min	per_lot				
+part_11	route_720898	route_720898_step_5	44							MG_4	0	min	per_lot				
+part_11	route_720898	route_720898_step_6	15							MG_1	0	min	per_lot				
+part_11	route_720898	route_720898_step_7	20							MG_4	0	min	per_lot				
+part_12	route_786433	route_786433_step_1	38							MG_5	0	min	per_lot				
+part_12	route_786433	route_786433_step_2	34							MG_2	0	min	per_lot				
+part_12	route_786433	route_786433_step_3	25							MG_4	0	min	per_lot				
+part_12	route_786433	route_786433_step_4	47							MG_4	0	min	per_lot				
+part_12	route_786433	route_786433_step_5	20							MG_4	0	min	per_lot				
+part_12	route_786433	route_786433_step_6	41							MG_3	0	min	per_lot				
+part_12	route_786433	route_786433_step_7	5							MG_3	0	min	per_lot				
+part_12	route_786433	route_786433_step_8	16							MG_3	0	min	per_lot				
+part_13	route_851969	route_851969_step_1	2							MG_2	0	min	per_lot				
+part_13	route_851969	route_851969_step_2	5							MG_3	0	min	per_lot				
+part_13	route_851969	route_851969_step_3	15							MG_1	0	min	per_lot				
+part_13	route_851969	route_851969_step_4	35							MG_5	0	min	per_lot				
+part_13	route_851969	route_851969_step_5	43							MG_4	0	min	per_lot				
+part_13	route_851969	route_851969_step_6	46							MG_4	0	min	per_lot				
+part_13	route_851969	route_851969_step_7	3							MG_2	0	min	per_lot				
+part_14	route_917505	route_917505_step_1	38							MG_5	0	min	per_lot				
+part_14	route_917505	route_917505_step_2	37							MG_3	0	min	per_lot				
+part_14	route_917505	route_917505_step_3	41							MG_3	0	min	per_lot				
+part_14	route_917505	route_917505_step_4	41							MG_3	0	min	per_lot				
+part_14	route_917505	route_917505_step_5	9							MG_1	0	min	per_lot				
+part_14	route_917505	route_917505_step_6	3							MG_2	0	min	per_lot				
+part_14	route_917505	route_917505_step_7	35							MG_5	0	min	per_lot				
+part_14	route_917505	route_917505_step_8	20							MG_4	0	min	per_lot				
+part_14	route_917506	route_917506_step_1	41							MG_3	0	min	per_lot				
+part_14	route_917506	route_917506_step_2	38							MG_5	0	min	per_lot				
+part_14	route_917506	route_917506_step_3	37							MG_3	0	min	per_lot				
+part_14	route_917506	route_917506_step_4	9							MG_1	0	min	per_lot				
+part_14	route_917506	route_917506_step_5	3							MG_2	0	min	per_lot				
+part_14	route_917506	route_917506_step_6	35							MG_5	0	min	per_lot				
+part_14	route_917506	route_917506_step_7	41							MG_3	0	min	per_lot				
+part_14	route_917506	route_917506_step_8	20							MG_4	0	min	per_lot				
+part_15	route_983041	route_983041_step_1	46							MG_4	0	min	per_lot				
+part_15	route_983041	route_983041_step_2	18							MG_4	0	min	per_lot				
+part_15	route_983041	route_983041_step_3	27							MG_2	0	min	per_lot				
+part_15	route_983041	route_983041_step_4	22							MG_1	0	min	per_lot				
+part_15	route_983041	route_983041_step_5	16							MG_3	0	min	per_lot				
+part_15	route_983041	route_983041_step_6	5							MG_3	0	min	per_lot				
+part_1	route_65537	route_65537_step_1	26							MG_3	0	min	per_lot				
+part_1	route_65537	route_65537_step_2	11							MG_5	0	min	per_lot				
+part_1	route_65537	route_65537_step_3	40							MG_4	0	min	per_lot				
+part_1	route_65537	route_65537_step_4	31							MG_3	0	min	per_lot				
+part_1	route_65537	route_65537_step_5	11							MG_5	0	min	per_lot				
+part_1	route_65537	route_65537_step_6	9							MG_1	0	min	per_lot				
+part_1	route_65538	route_65538_step_1	11							MG_5	0	min	per_lot				
+part_1	route_65538	route_65538_step_2	11							MG_5	0	min	per_lot				
+part_1	route_65538	route_65538_step_3	40							MG_4	0	min	per_lot				
+part_1	route_65538	route_65538_step_4	26							MG_3	0	min	per_lot				
+part_1	route_65538	route_65538_step_5	31							MG_3	0	min	per_lot				
+part_1	route_65538	route_65538_step_6	9							MG_1	0	min	per_lot				
+part_1	route_65539	route_65539_step_1	11							MG_5	0	min	per_lot				
+part_1	route_65539	route_65539_step_2	26							MG_3	0	min	per_lot				
+part_1	route_65539	route_65539_step_3	40							MG_4	0	min	per_lot				
+part_1	route_65539	route_65539_step_4	11							MG_5	0	min	per_lot				
+part_1	route_65539	route_65539_step_5	31							MG_3	0	min	per_lot				
+part_1	route_65539	route_65539_step_6	9							MG_1	0	min	per_lot				
+part_2	route_131073	route_131073_step_1	39							MG_4	0	min	per_lot				
+part_2	route_131073	route_131073_step_2	5							MG_3	0	min	per_lot				
+part_2	route_131073	route_131073_step_3	38							MG_5	0	min	per_lot				
+part_2	route_131073	route_131073_step_4	6							MG_4	0	min	per_lot				
+part_2	route_131073	route_131073_step_5	49							MG_2	0	min	per_lot				
+part_2	route_131073	route_131073_step_6	9							MG_1	0	min	per_lot				
+part_2	route_131074	route_131074_step_1	49							MG_2	0	min	per_lot				
+part_2	route_131074	route_131074_step_2	9							MG_1	0	min	per_lot				
+part_2	route_131074	route_131074_step_3	39							MG_4	0	min	per_lot				
+part_2	route_131074	route_131074_step_4	5							MG_3	0	min	per_lot				
+part_2	route_131074	route_131074_step_5	38							MG_5	0	min	per_lot				
+part_2	route_131074	route_131074_step_6	6							MG_4	0	min	per_lot				
+product_3	bom_196609	bom_196609_step_1	0	part_15	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196609	bom_196609_step_1	0	part_13	3	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196609	bom_196609_step_2	0	part_5	4	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196609	bom_196609_step_3	0	part_11	2	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196609	bom_196609_step_4	0	part_13	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196610	bom_196610_step_1	0	part_13	2	1	lot	1	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196610	bom_196610_step_1	0	part_3	3	1	lot	1	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196610	bom_196610_step_2	0	part_11	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196610	bom_196610_step_3	0	part_11	4	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196611	bom_196611_step_1	0	part_5	1	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196611	bom_196611_step_1	0	part_15	2	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196611	bom_196611_step_1	0	part_3	5	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196611	bom_196611_step_2	0	part_15	3	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196611	bom_196611_step_2	0	part_3	4	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196611	bom_196611_step_3	0	part_3	6	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196612	bom_196612_step_1	0	part_2	1	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196612	bom_196612_step_1	0	part_2	4	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196612	bom_196612_step_2	0	part_3	2	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196612	bom_196612_step_2	0	part_11	3	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196612	bom_196612_step_3	0	part_13	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196613	bom_196613_step_1	0	part_5	1	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196613	bom_196613_step_1	0	part_13	2	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196613	bom_196613_step_1	0	part_5	4	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196613	bom_196613_step_2	0	part_5	3	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_3	bom_196613	bom_196613_step_3	0	part_11	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262145	bom_262145_step_1	0	part_4	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262145	bom_262145_step_1	0	part_5	2	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262145	bom_262145_step_1	0	part_7	3	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262145	bom_262145_step_2	0	part_5	4	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262145	bom_262145_step_3	0	part_5	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262146	bom_262146_step_1	0	part_8	2	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262146	bom_262146_step_1	0	part_5	4	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262146	bom_262146_step_2	0	part_8	3	1	lot	1	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262146	bom_262146_step_3	0	part_7	1	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262146	bom_262146_step_4	0	part_5	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262147	bom_262147_step_1	0	part_4	1	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262147	bom_262147_step_1	0	part_7	4	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262147	bom_262147_step_2	0	part_4	2	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262147	bom_262147_step_3	0	part_4	3	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_4	bom_262147	bom_262147_step_4	0	part_12	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327681	bom_327681_step_1	0	part_4	1	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327681	bom_327681_step_1	0	part_10	2	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327681	bom_327681_step_1	0	part_8	5	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327681	bom_327681_step_2	0	part_4	3	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327681	bom_327681_step_3	0	part_10	4	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327681	bom_327681_step_4	0	part_8	6	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327682	bom_327682_step_1	0	part_10	1	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327682	bom_327682_step_1	0	part_14	2	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327682	bom_327682_step_1	0	part_10	5	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327682	bom_327682_step_2	0	part_4	3	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327682	bom_327682_step_2	0	part_10	4	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327682	bom_327682_step_3	0	part_10	6	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327683	bom_327683_step_1	0	part_8	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327683	bom_327683_step_1	0	part_14	2	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327683	bom_327683_step_1	0	part_8	5	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327683	bom_327683_step_2	0	part_15	4	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327683	bom_327683_step_3	0	part_8	3	1	lot	6	crit_SameUnit	MG_0	0	min	per_lot				
+product_5	bom_327683	bom_327683_step_4	0	part_15	6	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65537	bom_65537_step_1	0	part_5	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65537	bom_65537_step_1	0	part_4	3	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65537	bom_65537_step_2	0	part_4	2	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65537	bom_65537_step_3	0	part_6	4	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65538	bom_65538_step_1	0	part_11	1	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65538	bom_65538_step_1	0	part_11	3	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65538	bom_65538_step_2	0	part_6	2	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65538	bom_65538_step_3	0	part_5	4	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65539	bom_65539_step_1	0	part_13	2	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65539	bom_65539_step_1	0	part_11	3	1	lot	1	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65539	bom_65539_step_2	0	part_6	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65539	bom_65539_step_3	0	part_3	4	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65540	bom_65540_step_1	0	part_3	1	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65540	bom_65540_step_1	0	part_3	3	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65540	bom_65540_step_2	0	part_5	2	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_1	bom_65540	bom_65540_step_3	0	part_6	4	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131073	bom_131073_step_1	0	part_3	1	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131073	bom_131073_step_1	0	part_11	2	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131073	bom_131073_step_1	0	part_9	4	1	lot	3	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131073	bom_131073_step_2	0	part_9	3	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131073	bom_131073_step_3	0	part_15	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131074	bom_131074_step_1	0	part_9	1	1	lot	4	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131074	bom_131074_step_1	0	part_3	3	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131074	bom_131074_step_2	0	part_10	2	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131074	bom_131074_step_2	0	part_10	4	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131074	bom_131074_step_3	0	part_3	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131075	bom_131075_step_1	0	part_3	3	1	lot	1	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131075	bom_131075_step_1	0	part_11	4	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131075	bom_131075_step_2	0	part_11	1	1	lot	2	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131075	bom_131075_step_3	0	part_15	2	1	lot	5	crit_SameUnit	MG_0	0	min	per_lot				
+product_2	bom_131075	bom_131075_step_4	0	part_11	5	1	lot	-1	crit_SameUnit	MG_0	0	min	per_lot				
